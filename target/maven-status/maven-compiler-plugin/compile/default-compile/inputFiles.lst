@@ -1,0 +1,9 @@
+/Volumes/macbook_hd/workspace/place-service/src/main/java/br/com/rd/placeservice/PlaceServiceApplication.java
+/Volumes/macbook_hd/workspace/place-service/src/main/java/br/com/rd/placeservice/domain/Place.java
+/Volumes/macbook_hd/workspace/place-service/src/main/java/br/com/rd/placeservice/web/PlaceMapper.java
+/Volumes/macbook_hd/workspace/place-service/src/main/java/br/com/rd/placeservice/domain/PlaceRepository.java
+/Volumes/macbook_hd/workspace/place-service/src/main/java/br/com/rd/placeservice/api/PlaceRequest.java
+/Volumes/macbook_hd/workspace/place-service/src/main/java/br/com/rd/placeservice/domain/PlaceService.java
+/Volumes/macbook_hd/workspace/place-service/src/main/java/br/com/rd/placeservice/web/PlaceController.java
+/Volumes/macbook_hd/workspace/place-service/src/main/java/br/com/rd/placeservice/api/PlaceResponse.java
+/Volumes/macbook_hd/workspace/place-service/src/main/java/br/com/rd/placeservice/config/PlaceConfig.java
